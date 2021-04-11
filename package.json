@@ -1,0 +1,17 @@
+{
+  "name": "xradio-history",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mglcarmona/xradio-history.git",
+  "author": "mglcarmona <miguelrc1208@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lowdb": "^1.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
